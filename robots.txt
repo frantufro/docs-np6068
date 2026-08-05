@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-3svslh.privatetalks.online/sitemap.xml
